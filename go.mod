@@ -44,7 +44,7 @@ require (
 
 require (
 	github.com/cloudfoundry/go-cfclient/v3 v3.0.0-alpha.9
-	github.com/google/uuid v1.3.1
+	github.com/google/uuid v1.6.0
 	github.com/hashicorp/terraform-plugin-log v0.9.0
 )
 
